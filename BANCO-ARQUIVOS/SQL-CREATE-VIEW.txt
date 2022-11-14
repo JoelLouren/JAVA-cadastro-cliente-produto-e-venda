@@ -1,0 +1,11 @@
+
+
+
+CREATE VIEW `listaven` AS SELECT
+`venda`.`idvenda` AS `codven`,
+`cliente`.`nomecliente` AS `nomecli`,
+`cliente`.`endereco` AS `endereco`,
+`venda`.`total_venda` AS `tot`,
+FROM
+(`venda` JOIN `cliente`) WHERE
+(`venda`.`cliente_idcliente` = `cliente`.`idcliente`)
