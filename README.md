@@ -16,11 +16,14 @@ CRUD de produtos (impossivel exclir caso o mesmo esteja inserido em uma venda ex
 
 DESENVOLVIMENTOS INCOMPLETOS:
 
-A apresentação da view Vendas, após a exclusão de uma venda, não está apresentando a view corretamente.
+A apresentação da janela Vendas, após a exclusão de uma venda, não está apresentando a janela corretamente.
 
 A alteração de uma venda após a mesma ter sido concluida não está finalizada. (update da venda não está concluida).
 
 Relatórios ainda não foram feitos.
+
+
+Após construir o banco de dados, crie uma view para a janela de vendas. (o SQL se enconta na pasta).
 
 
 
