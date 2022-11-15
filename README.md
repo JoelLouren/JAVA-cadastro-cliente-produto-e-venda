@@ -23,9 +23,9 @@ A alteração de uma venda após a mesma ter sido concluida não está finalizad
 Relatórios ainda não foram feitos.
 
 
-A pasta com o arquivo em formato workbench para construção do banco de dados está anexado.
+A pasta com o arquivo em formato workbench para construção do banco de dados está anexado nomeado BANCO-ARQUIVOS.
 
-Após construir o banco de dados, crie uma view para a janela de vendas. (o SQL se enconta na pasta).
+Após construir o banco de dados, crie uma view para a janela de vendas. (o SQL está no arquivo .txt na pasta BANCO-ARQUIVOS).
 
 
 
