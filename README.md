@@ -23,6 +23,8 @@ A alteração de uma venda após a mesma ter sido concluida não está finalizad
 Relatórios ainda não foram feitos.
 
 
+A pasta de arquivos para construção do banco de dados está anexo.
+
 Após construir o banco de dados, crie uma view para a janela de vendas. (o SQL se enconta na pasta).
 
 
