@@ -30,4 +30,5 @@ Após construir o banco de dados, crie uma view para a janela de vendas. (o SQL 
 
 
 
-OBS: No momento o projeto se encontra pausado.
+OBS:    Todas as classes da camada Modelo esta configurado o acesso ao banco atravé de senha!
+        No momento o projeto se encontra pausado!
